@@ -5,7 +5,6 @@ C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\bin\Debug\netcor
 C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\bin\Debug\netcoreapp3.1\puntoDeVenta.dll
 C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\bin\Debug\netcoreapp3.1\puntoDeVenta.pdb
 C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\obj\Debug\netcoreapp3.1\puntoDeVenta.csprojAssemblyReference.cache
-C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\obj\Debug\netcoreapp3.1\puntoDeVenta.Form1.resources
 C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\obj\Debug\netcoreapp3.1\puntoDeVenta.csproj.GenerateResource.cache
 C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\obj\Debug\netcoreapp3.1\puntoDeVenta.AssemblyInfoInputs.cache
 C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\obj\Debug\netcoreapp3.1\puntoDeVenta.AssemblyInfo.cs
@@ -14,3 +13,6 @@ C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\obj\Debug\netcor
 C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\obj\Debug\netcoreapp3.1\puntoDeVenta.pdb
 C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\obj\Debug\netcoreapp3.1\puntoDeVenta.genruntimeconfig.cache
 C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\obj\Debug\netcoreapp3.1\puntoDeVenta.Properties.Resources.resources
+C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\obj\Debug\netcoreapp3.1\puntoDeVenta.formFunction.resources
+C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\obj\Debug\netcoreapp3.1\puntoDeVenta.formCharge.resources
+C:\Users\Daniel Sánchez\source\repos\puntoDeVenta\puntoDeVenta\obj\Debug\netcoreapp3.1\puntoDeVenta.formLogin.resources
